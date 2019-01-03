@@ -1,0 +1,14 @@
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe.config
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\bin\Debug\ServerConsole.pdb
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\obj\Debug\ServerConsole.exe
+c:\users\jeevithashree\source\repos\ServerConsole\ServerConsole\obj\Debug\ServerConsole.pdb
+C:\Users\Jeevithashree\source\repos\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csprojAssemblyReference.cache
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe.config
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\bin\Debug\ServerConsole.pdb
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csprojAssemblyReference.cache
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\obj\Debug\ServerConsole.exe
+D:\IISC_Data\IISC_2017\SocketProgram\ServerConsole\ServerConsole\obj\Debug\ServerConsole.pdb
